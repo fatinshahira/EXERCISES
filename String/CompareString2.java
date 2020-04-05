@@ -23,6 +23,7 @@ public class CompareString2 {
     }
 }
 
+
 /***
  * x = Java
  * y != Programming
