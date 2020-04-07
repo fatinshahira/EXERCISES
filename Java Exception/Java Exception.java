@@ -27,3 +27,6 @@ public class JavaException {
     System.out.println("Stop");
 }
 }
+
+![java exception](https://user-images.githubusercontent.com/55240830/78657264-16a11000-78fb-11ea-8043-e41339d9084e.png)
+
