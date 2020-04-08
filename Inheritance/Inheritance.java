@@ -1,19 +1,17 @@
-class Person {
+package inheritance;
 
-    public void displayName() {
-        System.out.println("I am person");
-    }
+class Person{
+
+public void DisplayName(){
+
+System.out.println("My name is fatin");
+}
 }
 
-class Student extends Person {
+class Student extends Person{
 
-    public static void main(String[] args) {
+    public static void main(String[]args){
         Student student = new Student();
-        student.displayName();
+        student.DisplayName();
     }
 }
-
-
-/***
- * I am person
- */
