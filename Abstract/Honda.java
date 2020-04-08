@@ -23,5 +23,6 @@ public abstract class Honda extends Car{
         honda.displayModel();
         honda.displayPrice();
     }
+  
 }
 
