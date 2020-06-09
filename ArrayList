@@ -1,6 +1,6 @@
 //Intro | How to add and remove data from ArrayList in Java
 
-
+```java
 package com.company;
 
 import java.util.ArrayList;
@@ -26,6 +26,8 @@ public class Main {
         anyList.add(0, "Java");
         System.out.println(anyList);
 
-
+```
     }
 }
+
+![output arrayList](https://user-images.githubusercontent.com/55240830/84176891-a9edf180-aab4-11ea-8e94-a6534429d2e5.png)
